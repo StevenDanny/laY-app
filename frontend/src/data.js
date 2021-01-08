@@ -7,7 +7,7 @@ const data = {
             image: '/images/producto.png',
             price: 0.35,
             brand: 'Marca de prueba',
-            rating: 5,
+            rating: 0.5,
             numReviews: 35,
             description: 'Descripcion de prueba'
         },
@@ -18,7 +18,7 @@ const data = {
             image: '/images/producto.png',
             price: 0.35,
             brand: 'Marca de prueba',
-            rating: 5,
+            rating: 2.5,
             numReviews: 35,
             description: 'Descripcion de prueba'
         },
@@ -29,7 +29,7 @@ const data = {
             image: '/images/producto.png',
             price: 0.35,
             brand: 'Marca de prueba',
-            rating: 5,
+            rating: 3,
             numReviews: 35,
             description: 'Descripcion de prueba'
         }
