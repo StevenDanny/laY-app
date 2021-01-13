@@ -18,7 +18,7 @@ const data = {
             category: 'Categoria de prueba',
             image: '/images/producto.png',
             price: 0.35,
-            countInStock: 1,
+            countInStock: 5,
             brand: 'Marca de prueba',
             rating: 2.5,
             numReviews: 35,
