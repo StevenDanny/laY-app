@@ -17,7 +17,6 @@ const data = {
     ],
     products: [
         {
-            _id: '1',
             name: 'Nombre de prueba',
             category: 'Categoria de prueba',
             image: '/images/producto.png',
@@ -29,7 +28,6 @@ const data = {
             description: 'Descripcion de prueba'
         },
         {
-            _id: '2',
             name: 'Nombre de prueba2',
             category: 'Categoria de prueba',
             image: '/images/producto.png',
@@ -41,7 +39,6 @@ const data = {
             description: 'Descripcion de prueba'
         },
         {
-            _id: '3',
             name: 'Nombre de prueba3',
             category: 'Categoria de prueba',
             image: '/images/producto.png',
